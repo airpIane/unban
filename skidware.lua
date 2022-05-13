@@ -1,2 +1,3 @@
 removed, paid script. 
-ihearthispanics
+- ihearthispanics
+- https://discord.gg/z3DA6qru2f
